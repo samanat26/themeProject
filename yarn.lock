@@ -1826,7 +1826,7 @@
     "react-transition-group" "^4.4.2"
     "rifm" "^0.12.1"
 
-"@mui/material@^5.0.0", "@mui/material@^5.2.8":
+"@mui/material@^5.0.0", "@mui/material@^5.2.8", "@mui/material@^5.4.0":
   "integrity" "sha512-vfBIAMsRNWI/A4p/eP01MjqhSACwxRGYp/2Yi7WAU64PpI/TXR4b9SRl+XJMMJXVC7+abu4E3hTdF3oqwMCSYA=="
   "resolved" "https://registry.npmjs.org/@mui/material/-/material-5.4.0.tgz"
   "version" "5.4.0"
@@ -1900,6 +1900,16 @@
     "@mui/utils" "^5.3.0"
     "@mui/x-license-pro" "5.5.0"
     "clsx" "^1.0.4"
+    "prop-types" "^15.8.1"
+    "reselect" "^4.1.5"
+
+"@mui/x-data-grid@^5.5.0":
+  "integrity" "sha512-qjOAqUHDsQ1elZuvL05k6bQITI2bbCRFrYYk03Y8mz7PpbSn1KrHlMVwJQbZByl/+uWO0Md1my/UUfaVWy9Puw=="
+  "resolved" "https://registry.npmjs.org/@mui/x-data-grid/-/x-data-grid-5.5.0.tgz"
+  "version" "5.5.0"
+  dependencies:
+    "@mui/utils" "^5.3.0"
+    "clsx" "^1.1.1"
     "prop-types" "^15.8.1"
     "reselect" "^4.1.5"
 

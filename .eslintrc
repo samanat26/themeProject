@@ -41,11 +41,10 @@
             }
         ],
         "prettier/prettier": [
-            2,
+            0,
 
             {
                 "endOfLine": "auto",
-
                 "bracketSpacing": false,
                 "printWidth": 140,
                 "singleQuote": true,
