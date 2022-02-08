@@ -14,6 +14,22 @@ import LocalizationProvider from '@mui/lab/LocalizationProvider';
 import DatePicker from '@mui/lab/DatePicker';
 
 
+
+const rows = [
+    {
+        id: 1,
+        Pax_Name: '@MUI',
+        Contact: '0000020',
+        PNR: 22,
+        GSD_PNR: 22,
+        Carrer: 'none',
+        TotalFare: '8888',
+        Sold: 'none',
+        TimeLimit: 'null',
+    },
+
+];
+
 const Ticket = () => {
     const [dvalue, setValued] = React.useState(null);
     const [pvalue, setValuep] = React.useState(null);
